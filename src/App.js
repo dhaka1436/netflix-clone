@@ -1,12 +1,8 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from "react";
+import Body from "./components/Body";
 
-function App() {
-  return (
-    <div className="App text-3xl font-bold text-green-500">
-      Namaste everyone
-    </div>
-  );
-}
+const App = () => {
+  return <Body />;
+};
 
 export default App;

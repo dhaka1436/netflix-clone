@@ -11,3 +11,5 @@ Features -
             - Title & Description
             - Movie Suggestions
                 - Movie List * n
+
+    - Netflix GPT
