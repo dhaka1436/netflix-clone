@@ -1,3 +1,8 @@
+Done so far
+
+    - Form Validation
+    - useRef hook
+
 Features -
 
     - LogIn/ SignUp
